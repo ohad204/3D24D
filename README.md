@@ -51,5 +51,13 @@ We provided two configs for every stage.
 ## Citation
 If you find this useful for your research, please cite the following:
 ```bibtex
-
+@article{rahamim2024bringingobjectslife4d,
+      title={Bringing Objects to Life: 4D generation from 3D objects}, 
+      author={Ohad Rahamim and Ori Malca and Dvir Samuel and Gal Chechik},
+      year={2024},
+      eprint={2412.20422},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.20422}, 
+}
 ```
