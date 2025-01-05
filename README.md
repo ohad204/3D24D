@@ -1,6 +1,7 @@
 # Bringing Objects to Life: 4D generation from 3D objects
-<a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a>
-<a href=""><img src="https://img.shields.io/badge/arXiv-2311.13608-b31b1b.svg"></a>
+<a href="https://3-to-4d.github.io/3-to-4d/"><img src="https://img.shields.io/badge/🌐%20Project-Website-blue"></a>
+<a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/arXiv-2412.20422-b31b1b.svg?logo=arXiv"></a>
+<a href="https://huggingface.co/papers/2412.20422"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg"></a>
 <a href="https://www.apache.org/licenses/LICENSE-2.0.txt"><img src="https://img.shields.io/badge/License-Apache-yellow"></a>
 <!-- Official implementation. -->
 <br>
@@ -12,8 +13,8 @@
 
 > <a href="https://3-to-4d.github.io/3-to-4d/">**Bringing Objects to Life: 4D generation from 3D objects**</a>
 >
-<a href="https://ohadrahamim.github.io/">Ohad Rahamim</a>,
-<a href="">Ori Malca</a>,
+<a href="https://ohadrahamim.github.io/">Ohad Rahamim*</a>,
+<a href="https://github.com/Orimalca">Ori Malca*</a>,
 <a href="https://chechiklab.biu.ac.il/~dvirsamuel/">Dvir Samuel</a>,
 <a href="https://chechiklab.biu.ac.il/~gal/">Gal Chechik</a>
 ><br>
