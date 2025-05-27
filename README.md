@@ -74,146 +74,206 @@ We provided two configs for every stage.
 ```
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/icecream-melt-static.gif" alt="icecream static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/icecream-melt-static.gif" alt="icecream static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">the ice cream is melting</h3>
-        <img src="gifs/icecream-melt.gif" alt="icecream melt" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">the ice cream is melting</h3>
+        </div>
+        <img src="gifs/icecream-melt.gif" alt="icecream melt" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/hulk-transform-static.gif" alt="Hulk static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/hulk-transform-static.gif" alt="Hulk static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">the hulk is transforming</h3>
-        <img src="gifs/hulk-transform.gif" alt="Hulk transforming" style="max-width: 120px; height: auto;">
-    </div>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/plant-bloom-static.gif" alt="Plant static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">A blooming plant slowly grows with colorful branches expanding outward</h3>
-        <img src="gifs/plant-bloom.gif" alt="Plant blooming" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/candle_spell_2-static.gif" alt="candle static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a spell is cast through the purple flame</h3>
-        <img src="gifs/candle_spell_2.gif" alt="candle spell" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">the hulk is transforming</h3>
+        </div>
+        <img src="gifs/hulk-transform.gif" alt="Hulk transforming" style="max-width: 80px; height: auto;">
     </div>
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/elephant-wings-static.gif" alt="Elephant wings static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/plant-bloom-static.gif" alt="Plant static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">an elephant grows its ears into long, powerful wings, stretching wide with a graceful flap</h3>
-        <img src="gifs/elephant-wings.gif" alt="Elephant wings flap" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">A blooming plant slowly grows with colorful branches expanding outward</h3>
+        </div>
+        <img src="gifs/plant-bloom.gif" alt="Plant blooming" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/unicorn-rainbow-static.gif" alt="Unicorn rainbow static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/candle_spell_2-static.gif" alt="candle static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a unicorn grows a colorful rainbow tail</h3>
-        <img src="gifs/unicorn-rainbow.gif" alt="Unicorn rainbow tail" style="max-width: 120px; height: auto;">
-    </div>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/snowman-melt-static.gif" alt="Snowman static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a snowman is melting, water trickling down its sides into a pool</h3>
-        <img src="gifs/snowman-melt.gif" alt="Snowman melting" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/turtle-head-static.gif" alt="Turtle static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">A turtle has its head inside its shell</h3>
-        <img src="gifs/turtle-head.gif" alt="Turtle head inside" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">a spell is cast through the purple flame</h3>
+        </div>
+        <img src="gifs/candle_spell_2.gif" alt="candle spell" style="max-width: 80px; height: auto;">
     </div>
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/honey-dipper-static.gif" alt="Honey dipper static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/elephant-wings-static.gif" alt="Elephant wings static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">Honey spills from a dipper</h3>
-        <img src="gifs/honey-dipper.gif" alt="Honey spilling" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">an elephant grows its ears into long, powerful wings, stretching wide with a graceful flap</h3>
+        </div>
+        <img src="gifs/elephant-wings.gif" alt="Elephant wings flap" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/apple-bite-static.gif" alt="Apple static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/unicorn-rainbow-static.gif" alt="Unicorn rainbow static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">an apple with a bite taken out of it</h3>
-        <img src="gifs/apple-bite.gif" alt="Apple bite" style="max-width: 120px; height: auto;">
-    </div>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/broccoli-grow-static.gif" alt="Broccoli static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">broccoli is growing and blooming, its green stalks stretching upward</h3>
-        <img src="gifs/broccoli-grow.gif" alt="Broccoli growing" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/candle-down-melt-static.gif" alt="Candle down melt static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a candle is melting downward, wax dripping steadily</h3>
-        <img src="gifs/candle-down-melt.gif" alt="Candle down melting" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">a unicorn grows a colorful rainbow tail</h3>
+        </div>
+        <img src="gifs/unicorn-rainbow.gif" alt="Unicorn rainbow tail" style="max-width: 80px; height: auto;">
     </div>
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/candle-melt-static.gif" alt="Candle melt static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/snowman-melt-static.gif" alt="Snowman static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a candle is melting, wax pooling at its base</h3>
-        <img src="gifs/candle-melt.gif" alt="Candle melting" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">a snowman is melting, water trickling down its sides into a pool</h3>
+        </div>
+        <img src="gifs/snowman-melt.gif" alt="Snowman melting" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/raccoon-fire-static.gif" alt="Raccoon fire static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/turtle-head-static.gif" alt="Turtle static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a raccoon breathing fire from a weapon</h3>
-        <img src="gifs/raccoon-fire.gif" alt="Raccoon fire breathing" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">A turtle has its head inside its shell</h3>
+        </div>
+        <img src="gifs/turtle-head.gif" alt="Turtle head inside" style="max-width: 80px; height: auto;">
     </div>
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/icecream-chocholate-static.gif" alt="Ice cream chocolate static" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/honey-dipper-static.gif" alt="Honey dipper static" style="max-width: 80px; height: auto;">
     </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a chocolate is poured over the ice cream and drips from its side</h3>
-        <img src="gifs/icecream-chocholate.gif" alt="Ice cream chocolate dripping" style="max-width: 120px; height: auto;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">Honey spills from a dipper</h3>
+        </div>
+        <img src="gifs/honey-dipper.gif" alt="Honey spilling" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/apple-bite-static.gif" alt="Apple static" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">an apple with a bite taken out of it</h3>
+        </div>
+        <img src="gifs/apple-bite.gif" alt="Apple bite" style="max-width: 80px; height: auto;">
+    </div>
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/broccoli-grow-static.gif" alt="Broccoli static" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">broccoli is growing and blooming, its green stalks stretching upward</h3>
+        </div>
+        <img src="gifs/broccoli-grow.gif" alt="Broccoli growing" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/candle-down-melt-static.gif" alt="Candle down melt static" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">a candle is melting downward, wax dripping steadily</h3>
+        </div>
+        <img src="gifs/candle-down-melt.gif" alt="Candle down melting" style="max-width: 80px; height: auto;">
+    </div>
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/candle-melt-static.gif" alt="Candle melt static" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">a candle is melting, wax pooling at its base</h3>
+        </div>
+        <img src="gifs/candle-melt.gif" alt="Candle melting" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/raccoon-fire-static.gif" alt="Raccoon fire static" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">a raccoon breathing fire from a weapon</h3>
+        </div>
+        <img src="gifs/raccoon-fire.gif" alt="Raccoon fire breathing" style="max-width: 80px; height: auto;">
+    </div>
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 16px; margin: 3px 0; width: 130px; white-space: normal;">3D Mesh</h3>
+        </div>
+        <img src="gifs/icecream-chocholate-static.gif" alt="Ice cream chocolate static" style="max-width: 80px; height: auto;">
+    </div>
+    <div style="text-align: center; margin: 5px; min-width: 150px; display: flex; flex-direction: column; align-items: center;">
+        <div style="min-height: 60px; display: flex; align-items: center; justify-content: center;">
+            <h3 style="font-size: 14px; margin: 3px 0; width: 130px; white-space: normal;">a chocolate is poured over the ice cream and drips from its side</h3>
+        </div>
+        <img src="gifs/icecream-chocholate.gif" alt="Ice cream chocolate dripping" style="max-width: 80px; height: auto;">
     </div>
 </div>
 
