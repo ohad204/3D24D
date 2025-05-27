@@ -1,4 +1,4 @@
-# Bringing Objects to Life: 4D generation from 3D objects
+# Bringing Objects to Life: training-free 4D generation from 3D objects through view consistent noise
 <a href="https://three24d.github.io/three24d/"><img src="https://img.shields.io/badge/🌐%20Project-Website-blue"></a>
 <a href="https://arxiv.org/abs/2412.20422"><img src="https://img.shields.io/badge/arXiv-2412.20422-b31b1b.svg?logo=arXiv"></a>
 <a href="https://huggingface.co/papers/2412.20422"><img src="https://img.shields.io/badge/🤗-Hugging%20Face-orange.svg"></a>
