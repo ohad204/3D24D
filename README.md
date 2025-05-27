@@ -7,31 +7,8 @@
 <br>
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
     <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
-        <img src="gifs/icecream-melt-static.gif" alt="icecream static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">the ice cream is melting</h3>
-        <img src="gifs/arrow.gif" alt="Mario running" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">Result 4D</h3>
-        <img src="gifs/icecream-melt.gif" alt="icecream melt" style="max-width: 120px; height: auto;">
-    </div>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
         <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;"></h3>
-        <img src="gifs/candle_spell_2-static.gif" alt="candle static" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 16px; margin: 3px 0; width: 180px; white-space: normal;">a spell is cast through the purple flame</h3>
-        <img src="gifs/arrow.gif" alt="Mario running" style="max-width: 120px; height: auto;">
-    </div>
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;"></h3>
-        <img src="gifs/candle_spell_2.gif" alt="candle spell" style="max-width: 120px; height: auto;">
+        <img src="teaser.gif" alt="icecream static" style="max-width: 120px; height: auto;">
     </div>
 </div>
 
@@ -75,7 +52,7 @@ We provided two configs for every stage.
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
     <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;">3D Mesh</h3>
+        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;"></h3>
         <img src="combined_gif.gif" alt="icecream static" style="max-width: 120px; height: auto;">
     </div>
 </div>
