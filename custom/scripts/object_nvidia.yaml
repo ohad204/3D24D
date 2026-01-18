@@ -1,0 +1,28 @@
+stage1:
+  - [ '/home/ohadr/data/google_scanned_objects/Sootheze_Cold_Therapy_Elephant/meshes/model.obj', 'Elephant' , 'Elephant']
+  - [ '/home/ohadr/data/google_scanned_objects/Schleich_Therizinosaurus_ln9cruulPqc/meshes/model.obj', 'dinosaur_2' , 'dinosaur_2']
+  - [ '/home/ohadr/data/google_scanned_objects/Schleich_Spinosaurus_Action_Figure/meshes/model.obj', 'dinosaur_3' , 'dinosaur_3']
+  - [ '/home/ohadr/data/google_scanned_objects/Schleich_S_Bayala_Unicorn_70432/meshes/model.obj', 'Unicorn' , 'Unicorn']
+  - [ '/home/ohadr/data/google_scanned_objects/Schleich_Hereford_Bull/meshes/model.obj', 'bull' , 'bull']
+  - [ '/home/ohadr/data/google_scanned_objects/Dino_3/meshes/model.obj', 'dinosaur_4' , 'dinosaur_4']
+  - [ '/home/ohadr/data/google_scanned_objects/Cole_Hardware_Mini_Honey_Dipper/meshes/model.obj', 'Honey_Dipper' , 'Honey_Dipper']
+  - [ '/home/ohadr/data/google_scanned_objects/Breyer_Horse_Of_The_Year_2015/meshes/model.obj', 'Horse' , 'Horse']
+  - [ '/home/ohadr/data/google_scanned_objects/Thomas_Friends_Wooden_Railway_Talking_Thomas_z7yi7UFHJRj/meshes/model.obj', 'train' , 'train']
+  - [ '/home/ohadr/data/google_scanned_objects/SpiderMan_Titan_Hero_12Inch_Action_Figure_5Hnn4mtkFsP/meshes/model.obj', 'SpiderMan_2' , 'SpiderMan_2']
+  - [ '/home/ohadr/data/google_scanned_objects/MINI_EXCAVATOR/meshes/model.obj', 'EXCAVATOR' , 'EXCAVATOR']
+  - [ '/home/ohadr/data/google_scanned_objects/Nintendo_Mario_Action_Figure/meshes/model.obj', 'mario' , 'mario']
+  - [ '/home/ohadr/data/google_scanned_objects/Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure/meshes/model.obj', 'Raccoon' , 'Raccoon']
+  - [ '/home/ohadr/data/google_scanned_objects/FIRE_ENGINE/meshes/model.obj', 'fire_truck' , 'fire_truck']
+  - [ '/home/ohadr/data/google_scanned_objects/BALANCING_CACTUS/meshes/model.obj', 'plant' , 'plant']
+  - [ '/home/ohadr/data/google_scanned_objects/Elephant/meshes/model.obj', 'elephant_2' , 'elephant_2']
+  - [ '/home/ohadr/data/google_scanned_objects/Cole_Hardware_School_Bell_Solid_Brass_38/meshes/model.obj', 'bell' , 'bell']
+  - [ '/home/ohadr/data/google_scanned_objects/Air_Hogs_Wind_Flyers_Set_Airplane_Red/meshes/model.obj', "1",
+      'airplane' , 'flying_airplane' ]
+  - [ '/home/ohadr/data/google_scanned_objects/Top_Paw_Dog_Bow_Bone_Ceramic_13_fl_oz_total/meshes/model.obj', "1",
+      'dog_bowl' , 'pooping_toaster' ]
+  - [ '/home/ohadr/data/google_scanned_objects/Thomas_Friends_Woodan_Railway_Henry/meshes/model.obj', "1",
+      'train_2' , 'smoke_top_train' ]
+  - [ '/home/ohadr/data/google_scanned_objects/TURBOPROP_AIRPLANE_WITH_PILOT/meshes/model.obj', "1",
+      'airplane' , 'rotating_propeller' ]
+  - [ '/home/ohadr/data/google_scanned_objects/Black_and_Decker_TR3500SD_2Slice_Toaster/meshes/model.obj', "1", 'toaster' , 'toaster' ]
+  - [ '/home/ohadr/data/google_scanned_objects/Imaginext_Castle_Ogre/meshes/model.obj', "1", 'hulk' , 'hulk' ]

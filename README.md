@@ -50,13 +50,6 @@ We provided two configs for every stage.
     python launch.py --config custom/configs/3to4D-stage2.yaml --train --gpu 1 exp_root_dir=outputs seed=0 data.image.object_path=\path\to\your\mesh.obj system.prompt_processor.obj_token_clip_idx=\the\word\location\in\the\prompt system.prompt_processor.prompt="your desiered action"
 ```
 
-<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 5px; margin-bottom: 15px;">
-    <div style="text-align: center; margin: 5px; min-width: 200px;">
-        <h3 style="font-size: 18px; margin: 3px 0; width: 180px; white-space: normal;"></h3>
-        <img src="combined_gif.gif" alt="icecream static" style="max-width: 120px; height: auto;">
-    </div>
-</div>
-
 
 ## Citation
 If you find this useful for your research, please cite the following:
